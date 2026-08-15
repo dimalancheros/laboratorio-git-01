@@ -5,3 +5,4 @@ Descripción:  Estudiante de quinto semestre, me encantan las matematicas y todo
 
 Pasatiempos: Leer, jugar videojuegos, realizar deporte o actividad fisica
 
+Materias de 5 semestre: Ingenieria de software I, ciencia, tecnologia y desarrollo, procesos estocasticos, pensamiento sistemico, matematicas especiales, sistemas de comunicacion
